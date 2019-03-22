@@ -11,7 +11,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+char str[10];
+
 int main(void) {
 	puts("Привет ^_^"); /* prints Мяф! */
+	gets(str);
+	puts(str);
 	return EXIT_SUCCESS;
 }
