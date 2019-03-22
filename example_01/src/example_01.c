@@ -17,6 +17,6 @@ int main(void) {
 	puts("Привет ^_^"); /* prints Мяф! */
 	gets(str);
 	puts(str);
-	puts("Привет ^_^"); /* prints Мяф! */
+	puts("Привет"); /* prints Мяф! */
 	return EXIT_SUCCESS;
 }
