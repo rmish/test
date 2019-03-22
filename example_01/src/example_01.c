@@ -14,9 +14,9 @@
 char str[10];
 
 int main(void) {
-	puts("Привет ^_^"); /* prints Мяф! */
+	puts("Привет }:->"); /* prints Мяф! */
 	gets(str);
 	puts(str);
-	puts("Привет"); /* prints Мяф! */
+	puts("Привет }:->"); /* prints Мяф! */
 	return EXIT_SUCCESS;
 }
